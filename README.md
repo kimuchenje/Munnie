@@ -1,2 +1,2 @@
 # Munnie
-gene expression data analysis workflow plus photography gig 
+Gene expression data analysis workflow plus photography page
